@@ -1,0 +1,3 @@
+Name: Clara
+Submitted: 2026-06-02T17:24:18.081+02:00
+Description: My speakers do not work
