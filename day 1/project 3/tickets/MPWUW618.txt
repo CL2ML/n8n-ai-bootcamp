@@ -1,0 +1,7 @@
+Name: Nina
+
+Submitted: 2026-06-02T18:32:55.436+02:00
+
+Description: How to install n8n on my PC?
+
+Prio: Not urgent
